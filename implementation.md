@@ -89,11 +89,6 @@ create policy "No public reads"
   using (false);
 ```
 
-### Environment Variables
-Use same Supabase credentials from main app:
-```
-NEXT_PUBLIC_SUPABASE_URL=your_existing_supabase_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_existing_anon_key
 ```
 
 ## Site Structure
