@@ -5,17 +5,17 @@ export default function HowItWorksSection() {
     {
       icon: PenLine,
       title: 'Journal Your Day',
-      description: 'Write freely about your thoughts, feelings, and experiences. No structure required—just be yourself.'
+      description: 'Write freely about your thoughts, feelings, and experiences. No structure required, just be yourself.'
     },
     {
       icon: Brain,
-      title: 'AI Analyzes Patterns',
-      description: 'Our intelligent system discovers connections and patterns across your entries, revealing insights you might not see.'
+      title: 'AI Pattern Recognition',
+      description: 'Journaling discovers connections and patterns across your entries, revealing insights you might not see.'
     },
     {
       icon: TrendingUp,
       title: 'Discover Yourself',
-      description: 'View analytics, trends, and personalized insights that help you understand your mental and emotional patterns.'
+      description: 'View analytics, trends, and personalised insights that help you understand your mental and emotional patterns.'
     }
   ]
 

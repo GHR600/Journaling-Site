@@ -1,4 +1,4 @@
-import { Brain, Shield, Activity, Sparkles } from 'lucide-react'
+import { Brain, Waves, Activity, Sparkles, Leaf, Palmtree, BarChart, BarChart2, BarChart3 } from 'lucide-react'
 import FeatureCard from './FeatureCard'
 
 export default function FeaturesSection() {
@@ -6,7 +6,7 @@ export default function FeaturesSection() {
     {
       icon: Brain,
       title: 'AI Pattern Recognition',
-      description: 'Discover hidden connections in your thoughts and behaviors. Our AI analyzes your journal entries to reveal meaningful patterns you might miss.'
+      description: 'Journaling  reveals meaningful patterns you might miss. Discover hidden connections in your thoughts and behaviors.'
     },
     {
       icon: Activity,
@@ -14,14 +14,14 @@ export default function FeaturesSection() {
       description: 'Connect sleep, activity, and mood data to understand how your lifestyle affects your well-being. See the complete picture of your health.'
     },
     {
-      icon: Shield,
-      title: 'Privacy-First',
-      description: 'Your data, your control. Everything is stored securely with end-to-end encryption. We never sell or share your personal information.'
+      icon: Palmtree,
+      title: 'Convenience',
+      description: 'No need to type. Journal using your voice anytime, anywhere. Capture your thoughts on the go with ease and security.'
     },
     {
-      icon: Sparkles,
-      title: 'Daily Insights',
-      description: 'Receive personalized intelligence from your reflections. Transform raw journal entries into actionable insights for personal growth.'
+      icon: BarChart3,
+      title: 'Track your Progress',
+      description: 'Receive personalized statistics from your reflections. Transform raw journal entries into understanding yourself.'
     }
   ]
 

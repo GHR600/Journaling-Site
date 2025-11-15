@@ -562,11 +562,11 @@ body {
 }
 
 .border-primary\/20 {
-  border-color: #6b46c133;
+  border-color: #ca8a0433;
 }
 
 .border-primary\/30 {
-  border-color: #6b46c14d;
+  border-color: #ca8a044d;
 }
 
 .bg-background {
@@ -593,11 +593,11 @@ body {
 
 .bg-primary {
   --tw-bg-opacity: 1;
-  background-color: rgb(107 70 193 / var(--tw-bg-opacity, 1));
+  background-color: rgb(202 138 4 / var(--tw-bg-opacity, 1));
 }
 
 .bg-primary\/10 {
-  background-color: #6b46c11a;
+  background-color: #ca8a041a;
 }
 
 .bg-gradient-to-b {
@@ -605,8 +605,8 @@ body {
 }
 
 .from-primary\/10 {
-  --tw-gradient-from: #6b46c11a var(--tw-gradient-from-position);
-  --tw-gradient-to: #6b46c100 var(--tw-gradient-to-position);
+  --tw-gradient-from: #ca8a041a var(--tw-gradient-from-position);
+  --tw-gradient-to: #ca8a0400 var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
@@ -727,7 +727,7 @@ body {
 
 .text-accent {
   --tw-text-opacity: 1;
-  color: rgb(234 179 8 / var(--tw-text-opacity, 1));
+  color: rgb(202 138 4 / var(--tw-text-opacity, 1));
 }
 
 .text-green-500 {
@@ -737,7 +737,7 @@ body {
 
 .text-primary {
   --tw-text-opacity: 1;
-  color: rgb(107 70 193 / var(--tw-text-opacity, 1));
+  color: rgb(202 138 4 / var(--tw-text-opacity, 1));
 }
 
 .text-red-400 {
@@ -793,21 +793,21 @@ body {
 
 .hover\:border-primary:hover {
   --tw-border-opacity: 1;
-  border-color: rgb(107 70 193 / var(--tw-border-opacity, 1));
+  border-color: rgb(202 138 4 / var(--tw-border-opacity, 1));
 }
 
 .hover\:border-primary\/40:hover {
-  border-color: #6b46c166;
+  border-color: #ca8a0466;
 }
 
 .hover\:bg-primary-dark:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(85 60 154 / var(--tw-bg-opacity, 1));
+  background-color: rgb(161 98 7 / var(--tw-bg-opacity, 1));
 }
 
 .hover\:text-primary:hover {
   --tw-text-opacity: 1;
-  color: rgb(107 70 193 / var(--tw-text-opacity, 1));
+  color: rgb(202 138 4 / var(--tw-text-opacity, 1));
 }
 
 .focus\:border-transparent:focus {
@@ -827,7 +827,7 @@ body {
 
 .focus\:ring-primary:focus {
   --tw-ring-opacity: 1;
-  --tw-ring-color: rgb(107 70 193 / var(--tw-ring-opacity, 1));
+  --tw-ring-color: rgb(202 138 4 / var(--tw-ring-opacity, 1));
 }
 
 .active\:scale-95:active {
@@ -841,7 +841,7 @@ body {
 }
 
 .disabled\:bg-primary\/50:disabled {
-  background-color: #6b46c180;
+  background-color: #ca8a0480;
 }
 
 .disabled\:hover\:scale-100:hover:disabled {
