@@ -14,7 +14,7 @@ export default function SuccessPage() {
         </h1>
 
         <p className="text-xl text-text-secondary mb-8">
-          We'll email you when Journalling launches on Google Play in early 2025.
+          We'll email you when Journaling launches on Google Play and the Apple App Store.
         </p>
 
         <div className="bg-card border border-primary/20 rounded-xl p-8 mb-8">
@@ -28,33 +28,13 @@ export default function SuccessPage() {
             </li>
             <li className="flex items-start">
               <span className="text-accent mr-3">•</span>
-              <span>Exclusive insights on how to maximize your journaling practice</span>
+              <span>Massive Discounts on premium features</span>
             </li>
             <li className="flex items-start">
               <span className="text-accent mr-3">•</span>
               <span>Be part of shaping the future of intelligent journaling</span>
             </li>
           </ul>
-        </div>
-
-        <div className="space-y-4">
-          <p className="text-text-secondary">
-            In the meantime, follow our journey:
-          </p>
-          <div className="flex justify-center gap-4">
-            <a
-              href="#"
-              className="px-6 py-3 bg-card border border-primary/30 rounded-lg text-text-primary hover:border-primary transition-all"
-            >
-              Twitter
-            </a>
-            <a
-              href="#"
-              className="px-6 py-3 bg-card border border-primary/30 rounded-lg text-text-primary hover:border-primary transition-all"
-            >
-              GitHub
-            </a>
-          </div>
         </div>
 
         <Link
