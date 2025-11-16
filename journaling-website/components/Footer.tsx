@@ -24,13 +24,7 @@ export default function Footer() {
           >
             <Twitter className="h-6 w-6" />
           </a>
-          <a
-            href="#"
-            className="text-text-secondary hover:text-primary transition-colors"
-            aria-label="GitHub"
-          >
-            <Github className="h-6 w-6" />
-          </a>
+
         </div>
 
         <div className="text-center text-text-secondary text-sm">
