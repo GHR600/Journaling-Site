@@ -28,11 +28,9 @@ export default function Footer() {
         </div>
 
         <div className="text-center text-text-secondary text-sm">
-          <p>&copy; {new Date().getFullYear()} Journalling. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Journaling</p>
           <p className="mt-2">
-            <a href="/privacy" className="hover:text-primary transition-colors">
-              Privacy Policy
-            </a>
+            
           </p>
         </div>
       </div>

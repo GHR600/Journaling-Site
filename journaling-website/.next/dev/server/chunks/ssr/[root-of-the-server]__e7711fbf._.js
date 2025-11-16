@@ -75,10 +75,10 @@ function HeroSection() {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "mb-8 flex justify-center",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                            src: "/Journaling Animation trpnt.gif",
+                            src: "/Copy of Journaling Animation (Presentation).gif",
                             alt: "Journaling Animation",
-                            width: 500,
-                            height: 500,
+                            width: 1920,
+                            height: 1080,
                             className: "rounded-lg",
                             unoptimized: true
                         }, void 0, false, {
@@ -420,7 +420,7 @@ function CTASection() {
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     className: "text-text-secondary text-lg mb-12 max-w-2xl mx-auto",
-                    children: "Join the waitlist to get early access and be notified when Journalling launches on Google Play."
+                    children: "Join the waitlist to get early access and be notified when Journaling launches on Google Play and Apple App Store."
                 }, void 0, false, {
                     fileName: "[project]/components/CTASection.tsx",
                     lineNumber: 10,
@@ -444,7 +444,7 @@ function CTASection() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "text-text-secondary leading-relaxed max-w-2xl mx-auto",
-                            children: "I built Journalling because I believe everyone deserves to understand themselves better. Traditional journaling is powerful, but combining it with AI pattern recognition unlocks a completely new level of self-awareness. I can't wait to share this with you."
+                            children: "I built Journaling because I believe everyone deserves to understand themselves better. Traditional journaling is powerful, but combining it with AI pattern recognition unlocks a completely new level of self-awareness. I can't wait to share this with you."
                         }, void 0, false, {
                             fileName: "[project]/components/CTASection.tsx",
                             lineNumber: 18,
@@ -560,7 +560,7 @@ function Footer() {
                             children: [
                                 "© ",
                                 new Date().getFullYear(),
-                                " Journalling. All rights reserved."
+                                " Journaling"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/Footer.tsx",
@@ -568,16 +568,7 @@ function Footer() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "mt-2",
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                href: "/privacy",
-                                className: "hover:text-primary transition-colors",
-                                children: "Privacy Policy"
-                            }, void 0, false, {
-                                fileName: "[project]/components/Footer.tsx",
-                                lineNumber: 33,
-                                columnNumber: 13
-                            }, this)
+                            className: "mt-2"
                         }, void 0, false, {
                             fileName: "[project]/components/Footer.tsx",
                             lineNumber: 32,

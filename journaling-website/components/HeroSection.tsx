@@ -11,10 +11,10 @@ export default function HeroSection() {
         {/* Journaling GIF */}
         <div className="mb-8 flex justify-center">
           <Image
-            src="/Journaling Animation trpnt.gif"
+            src="/Copy of Journaling Animation (Presentation).gif"
             alt="Journaling Animation"
-            width={500}
-            height={500}
+            width={1920}
+            height={1080}
             className="rounded-lg"
             unoptimized
           />
